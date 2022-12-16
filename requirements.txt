@@ -11,7 +11,7 @@ countryinfo
 CurrencyConverter
 dateparser
 dnspython
-emoji==1.7.0
+emoji
 emoji-country-flag
 feedparser
 future
